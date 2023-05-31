@@ -1,0 +1,11 @@
+form{
+    background-color: bisque;
+    margin-left: 5cm;
+    border-style: double;
+    height: 12cm;
+    width: 12cm;
+    padding-right: 150px;
+    border-style: double;
+    border-top-left-radius:10px;
+    background-image:url(https://www.shutterstock.com/shutterstock/photos/556166506/display_1500/stock-photo-profile-portrait-of-happy-sporty-woman-relaxing-in-park-female-model-breathing-fresh-air-outdoors-556166506.jpg) ;
+}
