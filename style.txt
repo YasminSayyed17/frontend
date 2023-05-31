@@ -1,0 +1,10 @@
+<!Doctype html>
+<html>
+<head>
+<title>Websoftutorials.com</title>
+<link href="style.css" rel="stylesheet" type="text/class" />
+</head>
+<body>
+<p>paragraph</p>
+</body>
+</html>
