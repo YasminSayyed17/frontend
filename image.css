@@ -1,0 +1,25 @@
+<html>
+<head>
+<title></title>
+<style>
+.image{
+  border:3px solid red;
+  width:900px;
+}
+.image.para{
+  color:gold;
+  background:black;
+  font-size:90px;
+}
+
+</style>
+</head>
+<body>
+  <div class="image">
+  
+<img src="https://images.unsplash.com/photo-1562690868-60bbe7293e94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZSUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"width="900px"height="900px">
+<h1 style="font-size:90px"><center><div class="para">FLOWERS</div></center></h1>
+</div>
+</body>
+</head>
+</html>
