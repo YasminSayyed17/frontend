@@ -1,0 +1,25 @@
+<html>
+<head>
+<title></title>
+<style>
+.image{
+  border:3px solid red;
+  width:900px;
+}
+.image.para{
+  color:gold;
+  background:black;
+  font-size:90px;
+}
+
+</style>
+</head>
+<body>
+  <div class="image">
+  
+<img src="https://st1.bollywoodlife.com/wp-content/uploads/2022/06/prabhas1.jpg?impolicy=Medium_Widthonly&w=1280&h=900"width="900px"height="900px">
+<h1 style="font-size:90px"><center><div class="para">PRABHAS</div></center></h1>
+</div>
+</body>
+</head>
+</html>
